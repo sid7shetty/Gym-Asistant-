@@ -1,1 +1,1 @@
-Created a Pose detection model using MoveNet and Tensorflow.js
+Created a Pose detection model using MoveNet 
